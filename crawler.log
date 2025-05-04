@@ -466,3 +466,24 @@
 [INFO] 2025-04-03 18:09:32:  * Debugger PIN: 787-252-502
 [INFO] 2025-04-03 18:09:34: 127.0.0.1 - - [03/Apr/2025 18:09:34] "GET / HTTP/1.1" 200 -
 [INFO] 2025-04-03 18:09:40: 127.0.0.1 - - [03/Apr/2025 18:09:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[INFO] 2025-04-10 15:01:15: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[INFO] 2025-04-10 15:01:15: [33mPress CTRL+C to quit[0m
+[INFO] 2025-04-10 15:01:15:  * Restarting with stat
+[WARNING] 2025-04-10 15:01:18:  * Debugger is active!
+[INFO] 2025-04-10 15:01:18:  * Debugger PIN: 130-781-779
+[INFO] 2025-04-10 15:01:20: 127.0.0.1 - - [10/Apr/2025 15:01:20] "GET / HTTP/1.1" 200 -
+[INFO] 2025-04-10 15:01:23: 127.0.0.1 - - [10/Apr/2025 15:01:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[INFO] 2025-05-04 17:02:44: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[INFO] 2025-05-04 17:02:44: [33mPress CTRL+C to quit[0m
+[INFO] 2025-05-04 17:02:44:  * Restarting with stat
+[WARNING] 2025-05-04 17:02:44:  * Debugger is active!
+[INFO] 2025-05-04 17:02:44:  * Debugger PIN: 130-781-779
+[INFO] 2025-05-04 17:02:48: 127.0.0.1 - - [04/May/2025 17:02:48] "GET / HTTP/1.1" 200 -
+[INFO] 2025-05-04 17:02:49: 127.0.0.1 - - [04/May/2025 17:02:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[INFO] 2025-05-04 17:02:52: 127.0.0.1 - - [04/May/2025 17:02:52] "[32mPOST / HTTP/1.1[0m" 302 -
+[INFO] 2025-05-04 17:02:52: بدأ الزحف باستخدام الاستراتيجية: BFS
+[INFO] 2025-05-04 17:02:52: 127.0.0.1 - - [04/May/2025 17:02:52] "GET / HTTP/1.1" 200 -
+[INFO] 2025-05-04 17:02:53: تم تصدير النتائج بنجاح إلى results.csv و results.json
+[INFO] 2025-05-04 17:02:53: انتهى الزحف. تمت زيارة 152 رابط.
